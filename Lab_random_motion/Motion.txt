@@ -1,0 +1,53 @@
+[["pass_pass","pass_NU","pass_ENU","pass_EU","pass_ESU","pass_SU","pass_WSU","pass_WU","pass_WNU","pass_N","pass_EN","pass_E","pass_ES","pass_S","pass_WS","pass_W","pass_WN","pass_ND","pass_END","pass_ED","pass_ESD","pass_SD","pass_WSD","pass_WD","pass_WND","pass_U","pass_D"],
+["NU_pass","NU_NU","NU_ENU","NU_EU","NU_ESU","NU_SU","NU_WSU","NU_WU","NU_WNU","NU_N","NU_EN","NU_E","NU_ES","NU_S","NU_WS","NU_W","NU_WN","NU_ND","NU_END","NU_ED","NU_ESD","NU_SD","NU_WSD","NU_WD","NU_WND","NU_U","NU_D"],
+["EU_pass","EU_NU","EU_ENU","EU_EU","EU_ESU","EU_SU","EU_WSU","EU_WU","EU_WNU","EU_N","EU_EN","EU_E","EU_ES","EU_S","EU_WS],[ EU_W],[ EU_WN],[ EU_ND],[ EU_END],[ EU_ED],[ EU_ESD],[ EU_SD],[ EU_WSD],[ EU_WD],[ EU_WND],[ EU_U],[ EU_D]
+
+[ESU_pass],[ ESU_NU],[ ESU_ENU],[ ESU_EU],[ ESU_ESU],[ ESU_SU],[ ESU_WSU],[ ESU_WU],[ ESU_WNU],[ ESU_N],[ ESU_EN],[ ESU_E],[ ESU_ES],[ ESU_S],
+[ESU_WS],[ ESU_W],[ ESU_WN],[ ESU_ND],[ ESU_END],[ ESU_ED],[ ESU_ESD],[ ESU_SD],[ ESU_WSD],[ ESU_WD],[ ESU_WND],[ ESU_U],[ ESU_D]
+
+[SU_pass],[ SU_NU],[ SU_ENU],[ SU_EU],[ SU_ESU],[ SU_SU],[ SU_WSU],[ SU_WU],[ SU_WNU],[ SU_N],[ SU_EN],[ SU_E],[ SU_ES],[ SU_S],
+[SU_WS],[ SU_W],[ SU_WN],[ SU_ND],[ SU_END],[ SU_ED],[ SU_ESD],[ SU_SD],[ SU_WSD],[ SU_WD],[ SU_WND],[ SU_U],[ SU_D]
+
+[WSU_pass],[WSU_NU],[WSU_ENU],[WSU_EU],[WSU_ESU],[WSU_SU],[WSU_WSU],[ WSU_WU],[ WSU_WNU],[ WSU_N],[WSU_EN],[ WSU_E],[ WSU_ES],[ WSU_S],
+[WSU_WS],[ WSU_W],[ WSU_WN],[ WSU_ND],[ WSU_END],[ WSU_ED],[ WSU_ESD],[ WSU_SD],[ WSU_WSD],[ WSU_WD],[ WSU_WND],[ WSU_U],[ WSU_D]
+
+[WU_pass],[WU_NU],[WU_ENU],[WU_EU],[WU_ESU],[WU_SU],[WU_WSU],[ WU_WU],[ WU_WNU],[ WU_N],[WU_EN],[ WU_E],[ WU_ES],[ WU_S],
+[WU_WS],[ WU_W],[ WU_WN],[ WU_ND],[ WU_END],[ WU_ED],[ WU_ESD],[ WU_SD],[ WU_WSD],[ WU_WD],[ WU_WND],[ WU_U],[ WU_D]
+
+[WNU_pass],[WNU_NU],[WNU_ENU],[WNU_EU],[WNU_ESU],[WNU_SU],[WNU_WSU],[ WNU_WU],[ WNU_WNU],[ WNU_N],[WNU_EN],[ WNU_E],[ WNU_ES],[ WNU_S],[WNU_WS],[ WNU_W],[ WNU_WN],[ WNU_ND],[ WNU_END],[ WNU_ED],[ WNU_ESD],[ WNU_SD],[ WNU_WSD],[ WNU_WD],[ WNU_WND],[ WNU_U],[ WNU_D]
+
+[N_pass],[N_NU],[N_ENU],[N_EU],[N_ESU],[N_SU],[N_WSU],[ N_WU],[ N_WNU],[ N_N],[N_EN],[ N_E],[ N_ES],[ N_S],[N_WS],[ N_W],[ N_WN],[ N_ND],[ N_END],[ N_ED],[ N_ESD],[ N_SD],[ N_WSD],[ N_WD],[ N_WND],[ N_U],[ N_D]
+
+[EN_pass],[EN_NU],[EN_ENU],[EN_EU],[EN_ESU],[EN_SU],[EN_WSU],[EN_WU],[EN_WNU],[EN_N],[EN_EN],[EN_E],[EN_ES],[EN_S],[EN_WS],[EN_W],[EN_WN],[EN_ND],[ EN_END],[EN_ED],[EN_ESD],[EN_SD],[EN_WSD],[EN_WD],[EN_WND],[EN_U],[EN_D]
+[E_pass],[E_NU],[E_ENU],[E_EU],[E_ESU],[E_SU],[E_WSU],[E_WU],[E_WNU],[E_N],[E_EN],[E_E],[E_ES],[E_S],[E_WS],[E_W],[E_WN],[E_ND],[ E_END],[E_ED],[E_ESD],[E_SD],[E_WSD],[E_WD],[E_WND],[E_U],[E_D]
+
+[ES_pass],[ES_NU],[ES_ENU],[ES_EU],[ES_ESU],[ES_SU],[ES_WSU],[ES_WU],[ES_WNU],[ES_N],[ES_EN],[ES_E],[ES_ES],[ES_S],[ES_WS],[ES_W],[ES_WN],[ES_ND],[ ES_END],[ES_ED],[ES_ESD],[ES_SD],[ES_WSD],[ES_WD],[ES_WND],[ES_U],[ES_D]
+
+[S_pass],[S_NU],[S_ENU],[S_EU],[S_ESU],[S_SU],[S_WSU],[S_WU],[S_WNU],[S_N],[S_EN],[S_E],[S_ES],[S_S],[S_WS],[S_W],[S_WN],[S_ND],[S_END],[S_ED],[S_ESD],[S_SD],[S_WSD],[S_WD],[S_WND],[S_U],[S_D]
+
+[WS_pass],[WS_NU],[WS_ENU],[WS_EU],[WS_ESU],[WS_SU],[WS_WSU],[WS_WU],[WS_WNU],[WS_N],[WS_EN],[WS_E],[WS_ES],[WS_S],[WS_WS],[WS_W],[WS_WN],[WS_ND],[WS_END],[WS_ED],[WS_ESD],[WS_SD],[WS_WSD],[WS_WD],[WS_WND],[WS_U],[WS_D]
+
+[W_pass],[W_NU],[W_ENU],[W_EU],[W_ESU],[W_SU],[W_WSU],[W_WU],[W_WNU],[W_N],[W_EN],[W_E],[W_ES],[W_S],[W_WS],[W_W],[W_WN],[W_ND],[W_END],[W_ED],[W_ESD],[W_SD],[W_WSD],[W_WD],[W_WND],[W_U],[W_D]
+
+[WN_pass],[WN_NU],[WN_ENU],[WN_EU],[WN_ESU],[WN_SU],[WN_WSU],[WN_WU],[WN_WNU],[WN_N],[WN_EN],[WN_E],[WN_ES],[WN_S],[WN_WS],[WN_W],[WN_WN],[WN_ND],[WN_END],[WN_ED],[WN_ESD],[WN_SD],[WN_WSD],[WN_WD],[WN_WND],[WN_U],[WN_D]
+
+[ND_pass],[ND_NU],[ND_ENU],[ND_EU],[ND_ESU],[ND_SU],[ND_WSU],[ND_WU],[ ND_WNU],[ND_N],[ND_EN],[ND_E],[ND_ES],[ND_S],[ND_WS],[ND_W],[ND_WN],[ND_ND],[ND_END],[ND_ED],[ND_ESD],[ND_SD],[ND_WSD],[ND_WD],[ND_WND],[ND_U],[ND_D]
+
+[END_pass],[END_NU],[END_ENU],[END_EU],[END_ESU],[END_SU],[END_WSU],[END_WU],[END_WNU],[END_N],[END_EN],[END_E],[END_ES],[END_S],[END_WS],[END_W],[END_WN],[END_ND],[END_END],[END_ED],[END_ESD],[END_SD],[END_WSD],[END_WD],[END_WND],[END_U],[END_D]
+
+[ED_pass],[ED_NU],[ED_ENU],[ED_EU],[ED_ESU],[ED_SU],[ED_WSU],[ED_WU],[ED_WNU],[ED_N],[ED_EN],[ED_E],[ED_ES],[ED_S],[ED_WS],[ED_W],[ED_WN],[ED_ND],[ED_END],[ED_ED],[ED_ESD],[ED_SD],[ED_WSD],[ED_WD],[ED_WND],[ED_U],[ED_D]
+
+[ESD_pass],[ESD_NU],[ESD_ENU],[ESD_EU],[ESD_ESU],[ESD_SU],[ESD_WSU],[ESD_WU],[ESD_WNU],[ESD_N],[ESD_EN],[ESD_E],[ESD_ES],[ESD_S],[ESD_WS],[ESD_W],[ESD_WN],[ESD_ND],[ESD_END],[ESD_ED],[ESD_ESD],[ESD_SD],[ESD_WSD],[ESD_WD],[ESD_WND],[ESD_U],[ESD_D]
+
+[SD_pass],[SD_NU],[SD_ENU],[SD_EU],[SD_ESU],[SD_SU],[SD_WSU],[SD_WU],[SD_WNU],[SD_N],[SD_EN],[SD_E],[SD_ES],[SD_S],[SD_WS],[SD_W],[SD_WN],[SD_ND],[SD_END],[SD_ED],[SD_ESD],[SD_SD],[SD_WSD],[SD_WD],[SD_WND],[SD_U],[SD_D]
+
+[WSD_pass],[WSD_NU],[WSD_ENU],[WSD_EU],[WSD_ESU],[WSD_SU],[WSD_WSU],[WSD_WU],[WSD_WNU],[WSD_N],[WSD_EN],[WSD_E],[WSD_ES],[WSD_S],[WSD_WS],[WSD_W],[WSD_WN],[WSD_ND],[WSD_END],[WSD_ED],[WSD_ESD],[WSD_SD],[WSD_WSD],[WSD_WD],[WSD_WND],[WSD_U],[WSD_D]
+
+[WD_pass],[WD_NU],[WD_ENU],[WD_EU],[WD_ESU],[WD_SU],[WD_WSU],[WD_WU],[WD_WNU],[WD_N],[WD_EN],[WD_E],[WD_ES],[WD_S],[WD_WS],[WD_W],[WD_WN],[WD_ND],[WD_END],[WD_ED],[WD_ESD],[WD_SD],[WD_WSD],[WD_WD],[WD_WND],[WD_U],[WD_D]
+
+
+[WND_pass],[WND_NU],[WND_ENU],[WND_EU],[WND_ESU],[WND_SU],[WND_WSU],[WND_WU],[WND_WNU],[WND_N],[WND_EN],[WND_E],[WND_ES],[WND_S],[WND_WS],[WND_W],[WND_WN],[WND_ND],[WND_END],[WND_ED],[WND_ESD],[WND_SD],[WND_WSD],[WND_WD],[WND_WND],[WND_U],[WND_D]
+
+[U_pass],[U_NU],[U_ENU],[U_EU],[U_ESU],[U_SU],[U_WSU],[U_WU],[U_WNU],[U_N],[U_EN],[U_E],[U_ES],[U_S],[U_WS],[U_W],[U_WN],[U_ND],[U_END],[U_ED],[U_ESD],[U_SD],[U_WSD],[U_WD],[U_WND],[U_U],[U_D]
+
+[D_pass],[D_NU],[D_ENU],[D_EU],[D_ESU],[D_SU],[D_WSU],[D_WU],[D_WNU],[D_N],[D_EN],[D_E],[D_ES],[D_S],[D_WS],[D_W],[D_WN],[D_ND],[D_END],[D_ED],[D_ESD],[D_SD],[D_WSD],[D_WD],[D_WND],[D_U],[D_D]
